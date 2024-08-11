@@ -1,10 +1,10 @@
 # HireEasy
 
 ## Steps to run the project:
-Step 1: Run the JoblistingApplication.Java file from Spring MongoDBfolder in an IDE
-Step 2: Open browser and go to 'localhost:8080' to start swagger
-Step 3: Open UISpring folder in IDE and run 'npm i' in terminal
-Step 4: Following step 3, run 'npm start' to start the React app
+Step 1: Run the JoblistingApplication.Java file from Spring MongoDBfolder in an IDE \
+Step 2: Open browser and go to 'localhost:8080' to start swagger \
+Step 3: Open UISpring folder in IDE and run 'npm i' in terminal \
+Step 4: Following step 3, run 'npm start' to start the React app \
 Step 5: Open the Atlas Compass or MongoDB Atlas on Broswer for cloud and data visualization
 
 ## Getting Started with Create React App
