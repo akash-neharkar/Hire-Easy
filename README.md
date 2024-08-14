@@ -1,5 +1,27 @@
 # HireEasy
 
+Hire Easy is a web application designed to connect job seekers with job providers seamlessly. Job seekers can explore opportunities by browsing through job postings created by providers. The platform allows job providers to easily add, update, or remove job listings, with the flexibility to tailor job descriptions to meet specific needs. For job seekers, advanced search filters enable efficient searching, helping them find roles that match their interests and qualifications quickly.
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Tech Stack
+
+**Frontend**: React
+
+**Backend**: Spring Boot (Java)
+
+**Database**: MongoDB
+
+**API Documentation**: Swagger
+
+**Deployment**: Vercel
+
+
+
 ## Steps to run the project:
 Step 1: Run the JoblistingApplication.Java file from Spring MongoDBfolder in an IDE \
 Step 2: Open browser and go to 'localhost:8080' to start swagger \
