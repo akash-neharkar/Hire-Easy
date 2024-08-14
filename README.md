@@ -3,9 +3,15 @@
 Hire Easy is a web application designed to connect job seekers with job providers seamlessly. Job seekers can explore opportunities by browsing through job postings created by providers. The platform allows job providers to easily add, update, or remove job listings, with the flexibility to tailor job descriptions to meet specific needs. For job seekers, advanced search filters enable efficient searching, helping them find roles that match their interests and qualifications quickly.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/99549de0-287d-4177-8e36-ddd1597e5aa1" width="700" />
-<img src="https://github.com/user-attachments/assets/099f47ad-40ae-4aec-a5a5-2b0b4fead8b4" width="700" />
+
+### Frontend:
 <img src="https://github.com/user-attachments/assets/72a0688b-5b13-4833-b616-b6eab07dcbe3" width="700" />
+
+### Swagger:
+<img src="https://github.com/user-attachments/assets/99549de0-287d-4177-8e36-ddd1597e5aa1" width="700" />
+
+### Database:
+<img src="https://github.com/user-attachments/assets/099f47ad-40ae-4aec-a5a5-2b0b4fead8b4" width="700" />
 
 ## Tech Stack
 
